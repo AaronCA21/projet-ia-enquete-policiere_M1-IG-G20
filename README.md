@@ -35,11 +35,12 @@ projet-ia-enquete-policiere/
 
 # Auteurs
   * M1 IG - Groupe 20
-    ** 1240H-F	ANDRIAMANIRY Luçio 
-    ** 1182H-F	RAHARIMBOLA Aro Nirina
-    ** 1256H-F	ELOISE Liline
-    ** 1258H-F	SOLOFONDRASERA Charlys
-    ** 1264H-F	ANDRIAMALALA Fenitra Emma
-    ** 1293H-F	NIRINTSALAMA Harisoa Tsanta
-    ** 1317H-F	RAKOTOVAO Tanteliniaina Martino
-    ** 1318H-F	SOLOHARIJAONA Hasina Fandresena
+    * 1240H-F	ANDRIAMANIRY Luçio 
+    * 1182H-F	RAHARIMBOLA Aro Nirina
+    * 1182H-F	RAHARIMBOLA Aro Nirina
+    * 1256H-F	ELOISE Liline
+    * 1258H-F	SOLOFONDRASERA Charlys
+    * 1264H-F	ANDRIAMALALA Fenitra Emma
+    * 1293H-F	NIRINTSALAMA Harisoa Tsanta
+    * 1317H-F	RAKOTOVAO Tanteliniaina Martino
+    * 1318H-F	SOLOHARIJAONA Hasina Fandresena
