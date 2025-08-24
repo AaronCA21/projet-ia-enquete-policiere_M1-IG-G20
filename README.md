@@ -14,8 +14,6 @@
   3. Installer les dépendances Python
     * pip install pyswip
 
-▶ Lancer l’application
-
 # Cloner le projet puis exécuter l’interface :
 cd projet-ia-enquete-policiere
 python interface.py
@@ -29,9 +27,9 @@ python interface.py
 
 # Organisation du projet
 projet-ia-enquete-policiere/
-│── interface.py          # Interface Tkinter
-│── enquete_policiere.pl  # Base de connaissances Prolog
-│── README.md             # Documentation
+│── interface.py         
+│── enquete_policiere.pl  
+│── README.md             
 
 # Auteurs
   * M1 IG - Groupe 20
