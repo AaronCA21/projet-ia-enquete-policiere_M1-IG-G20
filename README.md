@@ -15,7 +15,7 @@
     * pip install pyswip
 
 # Cloner le projet puis exécuter l’interface :
-  * cd projet-ia-enquete-policiere
+  * cd projet-ia-enquete-policiere_M1-IG-G20
   * python interface.py
 
 # Fonctionnalités
