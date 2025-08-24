@@ -15,8 +15,8 @@
     * pip install pyswip
 
 # Cloner le projet puis exécuter l’interface :
-cd projet-ia-enquete-policiere
-python interface.py
+  * cd projet-ia-enquete-policiere
+  * python interface.py
 
 # Fonctionnalités
   * Sélection d’un suspect et d’un type de crime
